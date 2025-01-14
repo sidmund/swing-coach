@@ -17,3 +17,13 @@ The app waits until an arm movement is detected (the user holds the phone in the
 Instead of receiving feedback for each individual swing, the user can also manually stop the app to show feedback for all detected swings (see first picture from the right). This is useful if you only want to see the feedback after a set, for example. The graph, normally invisible, is for the sports nerds who want to see live acceleration data, and of course, this was also useful for development.
 
 ![App flow](res/flow.png)
+
+## Reflection
+
+I learned to test an app with users, and to implement their feedback. I have also gained a deeper understanding of:
+- Using sensor data
+- Text-to-speech synthesis
+- Notifications
+- Sharing data between components
+- Layout design
+
