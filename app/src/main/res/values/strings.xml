@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Swing Coach</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_waiting">Monitoring</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="title_activity_feedback_multi">Feedback</string>
+
+    <!--    Activity - Startup / Preferences-->
+    <string name="prefs_title">How do you want your feedback?</string>
+    <string name="prefs_notification">Notification</string>
+    <string name="prefs_spoken">Spoken</string>
+    <string name="prefs_vibration">Vibration</string>
+    <string name="prefs_advanced">Advanced</string>
+    <string name="button_start_text">Start</string>
+
+    <!--    Settings-->
+    <string name="prefs_category_feedback">Feedback</string>
+    <string name="prefs_feedback_frequency">Show feedback</string>
+    <string name="prefs_feedback_hide_delay">Hide automatic feedback after</string>
+    <string name="prefs_category_advanced">Advanced</string>
+    <string name="prefs_debug">Stats for nerds</string>
+
+    <!--    Activity - Waiting for swing-->
+    <string name="textWaiting">Make a\nswing</string>
+    <string name="button_stop_text">Stop</string>
+    <string name="debugAcceleration">Acceleration: %1$.4f</string>
+    <string name="debugAccComps">(x,y,z): (%1$.4f, %2$.4f, %3$.4f)</string>
+
+    <!--    Activity - Feedback-->
+    <string name="feedbackIconContentDesc">Feedback icon</string>
+    <!--    Feedback messages-->
+    <string name="feedbackPlaceholder">Feedback message</string>
+    <string name="feedbackPerfect">Perfect!</string>
+    <string name="feedbackFaster">Swing faster</string>
+    <string name="feedbackBiggerArc">Make a bigger arc</string>
+    <string name="feedbackFollowThrough">Follow through more</string>
+    <string name="feedbackLongerSwing">Make a longer swing</string>
+    <string name="feedbackNone">No feedback given</string>
+    <!--    Swing categorization-->
+    <string name="swingPlaceholder">Swing type</string>
+    <string name="swingForehand">Forehand</string>
+    <string name="swingForehandVolley">Forehand Volley</string>
+    <string name="swingBackhand">Backhand</string>
+    <string name="swingBackhandVolley">Backhand Volley</string>
+    <string name="swingOverheadSmash">Overhead Smash</string>
+    <string name="swingUnknown">Unknown swing</string>
+    <!--    Multi feedback-->
+    <string name="feedbackSummary">Perfect swings %1$d/%2$d\n%3$d to improve</string>
+
+    <!--    Notifications-->
+    <string name="channel_name">Swing Coach</string>
+    <string name="channel_description">Swing Coach feedback notifications</string>
+    <string name="notificationTitle">Feedback</string>
+
+</resources>
